@@ -27,7 +27,7 @@ Neste projeto, mostro que sou capaz de:
 ## Tecnologias Utilizadas:
 |HTML|CSS|JavaScript|ReactJS|react-testing-library|
 |-|-|-|-|-|
-|![icon](./public/img/html.png)|![icon](./public/img/css-3.png)|![icon](./public/img/js.png)|![icon](./public/img/react.png)|![icon](./public/img/octopus-128x128.png)|
+|![icon](./public/img/html-5.png)|![icon](./public/img/css-3.png)|![icon](./public/img/js.png)|![icon](./public/img/react.png)|![icon](./public/img/octopus-128x128.png)|
 |Sintaxe JSX|Utilizado na estilização das páginas e dos componentes com styled components|Aplicação das funcionalidades com o Framework React|Recursos Utilizados: Function Components, React Router DOM, React Hooks|fornece funções utilitárias leves em cima de react-dome react-dom/test-utils. 
 ___
 
